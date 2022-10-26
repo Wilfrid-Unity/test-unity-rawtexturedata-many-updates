@@ -58,3 +58,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.vsconfig
+/.vs
+/StagingArea
+/Temp
+/.idea
+*.sln.DotSettings.user
+*.vcxproj
+*.vcxproj.filters
+/UserSettings
